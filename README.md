@@ -1,73 +1,57 @@
-<h2 align="center">Hey 👋 What's up? My name is Imran Charkaoui welcome to my corner of GitHub! Here you'll find my projects, experiments, and a bit of my coding journey.</h2>
+<h2 align="center">Hey 👋 What's up?<br>I'm <b>Imran Charkaoui</b> — Welcome to my corner of GitHub 🚀</h2>
+<p align="center">Here you'll find my projects, experiments, and a bit of my coding journey.</p>
 
-###
-![Profile Views](https://komarev.com/ghpvc/?username=Imranch4)) با
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,py,cpp,java,js,html,css,mysql,react,nextjs,laravel,flask,django,tailwind,bootstrap,firebase,git,github,vscode,linux,androidstudio" height="60" />
 </div>
 
+---
 
-###
-
-## This week I spent my time on:
+### ⏳ This week I spent my time on:
 
 | Language     | Time Spent        | Progress |
-|-------------|-----------------|---------|
-| TypeScript  | 24 hrs 40 mins   | ███████████████████▓░░░░░ 78.09% |
-| Python      | 3 hrs 47 mins    | ███░░░░░░░░░░░░░░░░░░░░░ 11.99% |
-| HTML        | 1 hr 11 mins     | █░░░░░░░░░░░░░░░░░░░░░░░░ 03.76% |
-| Markdown    | 50 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.67% |
-| JavaScript  | 47 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.48% |
+|-------------|-------------------|----------|
+| TypeScript  | 24 hrs 40 mins    | ███████████████████▓░░░░░ 78.09% |
+| Python      | 3 hrs 47 mins     | ███░░░░░░░░░░░░░░░░░░░░░ 11.99% |
+| HTML        | 1 hr 11 mins      | █░░░░░░░░░░░░░░░░░░░░░░░░ 03.76% |
+| Markdown    | 50 mins           | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.67% |
+| JavaScript  | 47 mins           | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.48% |
 
-###
+---
 
-
+### 🌍 Connect with me
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linktr.ee/yourhandle">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
 
-###
+---
+
+### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Imranch4&theme=dracula&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imranch4&theme=radical" alt="streaks" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imranch4&show_icons=true&theme=radical" alt="stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imranch4&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
+</div>
