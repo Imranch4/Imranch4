@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋 What's up? My name is Imran Charkaoui welcome to my corner of GitHub! Here you'll find my projects, experiments, and a bit of my coding journey.</h2>
 
 ###
-
+![Profile Views](https://komarev.com/ghpvc/?username=Imranch4)) با
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
