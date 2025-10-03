@@ -44,13 +44,15 @@
 
 ###
 
-This week i spent my time on:
+## This week I spent my time on:
 
-TypeScript   24 hrs 40 mins  ███████████████████▓░░░░░   78.09 %
-Python       3 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-HTML         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Markdown     50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-JavaScript   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+| Language     | Time Spent        | Progress |
+|-------------|-----------------|---------|
+| TypeScript  | 24 hrs 40 mins   | ███████████████████▓░░░░░ 78.09% |
+| Python      | 3 hrs 47 mins    | ███░░░░░░░░░░░░░░░░░░░░░ 11.99% |
+| HTML        | 1 hr 11 mins     | █░░░░░░░░░░░░░░░░░░░░░░░░ 03.76% |
+| Markdown    | 50 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.67% |
+| JavaScript  | 47 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.48% |
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
