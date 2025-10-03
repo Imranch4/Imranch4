@@ -54,14 +54,20 @@
 | Markdown    | 50 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.67% |
 | JavaScript  | 47 mins          | ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.48% |
 
+###
+
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
 ###
