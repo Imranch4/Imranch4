@@ -43,10 +43,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imranch4&theme=radical" alt="streaks" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imranch4&show_icons=true&theme=radical" alt="stats" />
 </div>
 
