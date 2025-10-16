@@ -43,9 +43,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imranch4&show_icons=true&theme=radical" alt="stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imranch4&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
 </div>
