@@ -33,7 +33,3 @@
     <img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge" />
   </a>
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
